@@ -25,4 +25,4 @@ jobs:
 
       - name: Run the Python script
         run: |
-          echo "Simulating user input 'John'" | python main.py
+          echo "Simulating user input 'John'" | python hello.py
